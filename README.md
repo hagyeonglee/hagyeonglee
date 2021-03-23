@@ -2,6 +2,7 @@
 
 📚 Education
 - Senior Computer Science Engineering Student in Ewha Womans University, South Korea (2018.03 ~ Present)
+- Incheon Science High School (2015.03 ~ 2018.02)
 
 👉 I’m currently working on
 - DSC Ewha Lead (Developer Student Club @Google) (2019.08 ~ Expected 2021.08)
