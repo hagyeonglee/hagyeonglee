@@ -14,8 +14,8 @@
 
 🔭 I worked on...
 - Toonsquare AI Researcher Intern (NLP) (2020.01 ~ 2020.06)
-- Ewha Womans University Undergraduate Program (2020.07 ~ 2020.08)
-- Yonsei Severance Hospital TAILab Undergraduate Researcher (2020.09 ~ 2020.12)
+- Ewha Womans University Undergraduate Program @Graphics Lab(2020.07 ~ 2020.08)
+- Yonsei Severance Hospital @TAILab Undergraduate Researcher (2020.09 ~ 2020.12)
 
 📫 How to reach me: lhky0708@gmail.com   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:lhky0708@gmail.com)
 
