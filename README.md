@@ -1,4 +1,4 @@
-### Hello :) I'm HaGyeong Lee (@hagyeonglee) 👋
+### Hello :) I'm HaKyung Lee (@hakyunglee) 👋
 
 📚 Education
 - Senior Computer Science Engineering Student in Ewha Womans University, South Korea (2018.03 ~ Present)
