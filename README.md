@@ -5,7 +5,7 @@
 - Incheon Science High School (2015.03 ~ 2018.02)
 
 👉 I’m currently working on
-- DSC Ewha Lead (Developer Student Club @Google) (2019.08 ~ Expected 2021.08)
+- GDSC Ewha Lead (Developer Student Club @Google) (2019.08 ~ Expected 2021.08)
 - Graduation Project on Ewha Womans University (2021.03~ Expected 2021.12)
 
 🌱 I’m currently interested in
