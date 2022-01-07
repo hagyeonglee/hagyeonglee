@@ -4,21 +4,18 @@
 - Senior Computer Science Engineering Student in Ewha Womans University, South Korea (2018.03 ~ Present)
 - Incheon Science High School (2015.03 ~ 2018.02)
 
-👉 I’m currently working on
-- GDSC Ewha Lead (Developer Student Club @Google) (2019.08 ~ Expected 2021.08)
-- Graduation Project on Ewha Womans University (2021.03~ Expected 2021.12)
-
 🌱 I’m currently interested in
-- Machine Learning in Medical
-- Computer Vision (Medical / Radiomics / etc)
+- Machine Learning 
 
 🔭 I worked on...
 - Toonsquare AI Researcher Intern (NLP) (2020.01 ~ 2020.06)
 - Ewha Womans University Undergraduate Program @Graphics Lab(2020.07 ~ 2020.08)
 - Yonsei Severance Hospital @TAILab Undergraduate Researcher (2020.09 ~ 2020.12)
-- KIST(한국과학기술연구원) 차세대반도체연구소 스핀융합연구단 학생연구원 (2021.09 ~ )
+- KIST(한국과학기술연구원) 차세대반도체연구소 스핀융합연구단 학생연구원 (2021.09 ~ 2021.12)
+- GDSC Ewha Lead (Developer Student Club @Google) (2019.08 ~ 2021.08)
+- Graduation Project on Ewha Womans University (2021.03 ~ 2021.12)
 
-📫 How to reach me: lhky0708@gmail.com   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:lhky0708@gmail.com)
+📫 How to reach me: lhky0708@gmail.com   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhky0708@gmail.com)](mailto:lhky0708@gmail.com)
 
 <!--
 **hagyeonglee/hagyeonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,6 +30,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+👉 I’m currently working on
 -->
 <!-- &hide=stars,commits,prs,issues,contribs -->
 <!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Hagyeong&show_icons=true&count_private=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)-->
