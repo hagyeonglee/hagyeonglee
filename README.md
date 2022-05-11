@@ -12,7 +12,7 @@
 - Ewha Womans University Undergraduate Program @Graphics Lab(2020.07 ~ 2020.08)
 - Yonsei Severance Hospital @TAILab Undergraduate Researcher (2020.09 ~ 2020.12)
 - KIST(한국과학기술연구원) 차세대반도체연구소 스핀융합연구단 학생연구원 (2021.09 ~ 2021.12)
-- GDSC Ewha Lead (Developer Student Club @Google) (2019.08 ~ 2021.08)
+- GDSC Ewha Lead (Google Developer Student Club @Google) (2019.08 ~ 2021.08)
 - Graduation Project on Ewha Womans University (2021.03 ~ 2021.12)
 
 📫 How to reach me: lhky0708@gmail.com   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhky0708@gmail.com)](mailto:lhky0708@gmail.com)
