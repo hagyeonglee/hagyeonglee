@@ -5,7 +5,9 @@
 - M.S. candidate in POSTECH (Pohang Science and Technology University), South Korea (2022.08 ~ )
 
 🌱 I’m currently interested in
-- Machine Learning (recentrly FAIR AI) 
+- Machine Learning (Fairness, Accountability, and Transparency; e.g., Problem of Generative Model)
+- Neural Codec, Data Compression
+
 
 🔭 I worked on...
 - Toonsquare AI Researcher Intern (2020.01 ~ 2020.06)
