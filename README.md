@@ -2,22 +2,21 @@
 
 📚 Education
 - Graduated Computer Science Engineering in Ewha Womans University, South Korea (2018.03 ~ 2022.08)
-- M.S. candidate in POSTECH (Pohang Science and Technology University), South Korea (2022.08 ~ )
+- M.S. at EffL Lab @POSTECH EE, South Korea (2022.09 ~ 2024.08)
 
 🌱 I’m currently interested in
-- Machine Learning (Fairness, Accountability, and Transparency; e.g., Problem of Generative Model)
+- Evaluation using LLM
 - Neural Codec, Data Compression
+- Machine Learning (Fairness, Accountability, and Transparency)
 
 
 🔭 I worked on...
-- Toonsquare AI Researcher Intern (2020.01 ~ 2020.06)
-- Ewha Womans University Undergraduate Program @Graphics Lab(2020.07 ~ 2020.08)
-- Yonsei Severance Hospital @TAILab Undergraduate Researcher (2020.09 ~ 2020.12)
-- KIST Undergraduate research intern (차세대반도체연구소)(2021.09 ~ 2021.12)
-- GDSC Ewha Lead & Core Member (Google Developer Student Club @Google) (2019.08 ~ 2021.08)
-- Graduation Project on Ewha Womans University (2021.03 ~ 2021.12)
+- Yonsei Severance Hospital @CCIDS Undergraduate Researcher (2020.09 ~ 2020.12)
+- KIST Undergraduate research intern (2021.09 ~ 2021.12)
+- GDSC Ewha (Lead & Core Member; @Google) (2019.08 ~ 2021.08)
 
-📫 How to reach me: hagyeonglee@postech.ac.kr   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhky0708@gmail.com)](mailto:hagyeonglee@postech.ac.kr)
+
+📫 How to reach me: hagyeonglee@postech.ac.kr   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhky0708@gmail.com)](mailto:hagyeonglee@postech.ac.kr) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hagyeong-lee-1b342520b/)](https://www.linkedin.com/in/hagyeong-lee-1b342520b/)
 
 <!--
 **hagyeonglee/hagyeonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
