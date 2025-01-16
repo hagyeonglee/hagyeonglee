@@ -1,24 +1,30 @@
 ### Hello :) I'm Hagyeong Lee (@hagyeonglee) 👋
 
-📚 Education
-- Graduated Computer Science Engineering in Ewha Womans University, South Korea (2018.03 ~ 2022.08)
-- M.S. at EffL Lab @POSTECH EE, South Korea (2022.09 ~ 2024.08)
+👉 I'm currently working at KBSI (Korea Basic Science Institute) 🌱
 
+📋 Worked on...
+- 🎓M.S. @POSTECH EffL Lab.(2022.09 ~ 2024.08)
+- 📚Researcher @Yonsei Severance Hospital CCIDS (2020.09 ~ 2020.12)
+- 📚Research Intern @KIST Post-Silicon Semiconductor Institute (2021.09 ~ 2021.12)
+- 🎙️Univ. Lead & Core Member @Google GDG on Campus (2019.08 ~ 2021.08)
+- 🎓B.S. @Ewha Womans Univ. CSE (2018.03 ~ 2022.08)
+
+📫 How to reach... 
+- Visit my blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](hagyeonglee.github.io)
+- Send msg to the [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hagyeong-lee-1b342520b/)](https://www.linkedin.com/in/hagyeong-lee-1b342520b/)
+- Send an email to the [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhgy0708@gmail.com)](mailto:lhgy0708@gmail.com)
+
+<!--
+📚📚🎓🎓
 🌱 I’m currently interested in
 - Evaluation using LLM
 - Neural Codec, Data Compression
 - Machine Learning (Fairness, Accountability, and Transparency)
 
-
-🔭 I worked on...
-- Yonsei Severance Hospital @CCIDS Undergraduate Researcher (2020.09 ~ 2020.12)
-- KIST Undergraduate research intern (2021.09 ~ 2021.12)
-- GDSC Ewha (Lead & Core Member; @Google) (2019.08 ~ 2021.08)
+📫 How to reach me: hagyeonglee@postech.ac.kr   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhgy0708@gmail.com)](mailto:hagyeonglee@postech.ac.kr) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hagyeong-lee-1b342520b/)](https://www.linkedin.com/in/hagyeong-lee-1b342520b/)
 
 
-📫 How to reach me: hagyeonglee@postech.ac.kr   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhky0708@gmail.com)](mailto:hagyeonglee@postech.ac.kr) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hagyeong-lee-1b342520b/)](https://www.linkedin.com/in/hagyeong-lee-1b342520b/)
 
-<!--
 **hagyeonglee/hagyeonglee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
