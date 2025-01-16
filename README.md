@@ -10,7 +10,7 @@
 - 🎓B.S. @Ewha Womans Univ. CSE (2018.03 ~ 2022.08)
 
 📫 How to reach... 
-- Visit my blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](hagyeonglee.github.io)
+- Visit my blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hagyeonglee.github.io)
 - Send msg to the [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hagyeong-lee-1b342520b/)](https://www.linkedin.com/in/hagyeong-lee-1b342520b/)
 - Send an email to the [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhgy0708@gmail.com)](mailto:lhgy0708@gmail.com)
 
