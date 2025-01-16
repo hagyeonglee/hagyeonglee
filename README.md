@@ -3,7 +3,7 @@
 👉 I'm currently working at KBSI (Korea Basic Science Institute) 🌱
 
 📋 Worked on...
-- 🎓M.S. @POSTECH EffL Lab.(2022.09 ~ 2024.08)
+- 🎓M.S. @POSTECH EffL Lab. (2022.09 ~ 2024.08)
 - 📚Researcher @Yonsei Severance Hospital CCIDS (2020.09 ~ 2020.12)
 - 📚Research Intern @KIST Post-Silicon Semiconductor Institute (2021.09 ~ 2021.12)
 - 🎙️Univ. Lead & Core Member @Google GDG on Campus (2019.08 ~ 2021.08)
