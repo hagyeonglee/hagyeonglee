@@ -12,10 +12,10 @@
 📫 How to reach... 
 - Visit my blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hagyeonglee.github.io)
 - Send msg to the [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hagyeong-lee-1b342520b/)](https://www.linkedin.com/in/hagyeong-lee-1b342520b/)
-- Send an email to the [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhgy0708@gmail.com)](mailto:lhgy0708@gmail.com) 
+- Send an email to the [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhgy0708@gmail.com)](mailto:hagyeongleee@gmail.com) / [![Static Badge](https://img.shields.io/badge/KBSI%20mail-0082D8)](mailto:lhgy0708@kbsi.re.kr)
 
 <!--
-/ [![Static Badge](https://img.shields.io/badge/KBSI%20Email-0082D8&link=mailto:lhgy0708@kbsi.re.kr)(mailto:lhgy0708@kbsi.re.kr)]
+/ [![Static Badge](https://img.shields.io/badge/KBSI%20Email-0082D8&link=mailto:lhgy0708@kbsi.re.kr)](mailto:lhgy0708@kbsi.re.kr)
 
 📚📚🎓🎓
 🌱 I’m currently interested in
