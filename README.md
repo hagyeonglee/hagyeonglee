@@ -1,7 +1,5 @@
 ### Hello :) I'm Hagyeong Lee (@hagyeonglee) 👋
 
-👉 I'm currently working at KBSI (Korea Basic Science Institute) 🌱
-
 📋 Worked on...
 - 🎓M.S. @POSTECH EffL Lab. (2022.09 ~ 2024.08)
 - 📚Researcher @Yonsei Severance Hospital CCIDS (2020.09 ~ 2020.12)
@@ -16,6 +14,8 @@
 
 <!--
 / [![Static Badge](https://img.shields.io/badge/KBSI%20Email-0082D8&link=mailto:lhgy0708@kbsi.re.kr)](mailto:lhgy0708@kbsi.re.kr)
+
+👉 I'm currently working at KBSI (Korea Basic Science Institute) 🌱
 
 📚📚🎓🎓
 🌱 I’m currently interested in
