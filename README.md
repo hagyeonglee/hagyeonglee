@@ -1,18 +1,22 @@
 ### Hello :) I'm Hagyeong Lee (@hagyeonglee) 👋
 
+🤔 Research Interest...
+- AI Generated Content: Code Generation, AI4Science
+- Data Compression: Neural Codec (Image compression, Video coding)
+- Ethical AI: Fairness, Accountability, and Transparency in AIGC
+
 📋 Worked on...
 - 🎓M.S. @POSTECH EffL Lab. (2022.09 ~ 2024.08)
 - 📚Researcher @Yonsei Severance Hospital CCIDS (2020.09 ~ 2020.12)
-- 📚Research Intern @KIST Post-Silicon Semiconductor Institute (2021.09 ~ 2021.12)
-- 🎙️Univ. Lead & Core Member @Google GDG on Campus (2019.08 ~ 2021.08)
+- 🎙️Lead @Google GDG on Campus Ewha (2020.08 ~ 2021.08)
 - 🎓B.S. @Ewha Womans Univ. CSE (2018.03 ~ 2022.08)
 
-📫 How to reach... 
-- Visit my blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hagyeonglee.github.io)
-- Send msg to the [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hagyeonglee/)](https://www.linkedin.com/in/hagyeonglee/)
+📫 How to reach me... 
+- Send a message via [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hagyeonglee/)](https://www.linkedin.com/in/hagyeonglee/)
 - Send an email to the [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lhgy0708@gmail.com)](mailto:hagyeongleee@gmail.com) 
 
 <!--
+- Visit my blog [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hagyeonglee.github.io)
 / [![Static Badge](https://img.shields.io/badge/KBSI%20Email-0082D8&link=mailto:lhgy0708@kbsi.re.kr)](mailto:lhgy0708@kbsi.re.kr)
 / [![Static Badge](https://img.shields.io/badge/KBSI%20mail-0047ab)](mailto:lhgy0708@kbsi.re.kr) (Slow response due to 🔒...)
 👉 I'm currently working at KBSI (Korea Basic Science Institute) 🌱
